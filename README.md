@@ -16,7 +16,7 @@
 Esse projeto faz parte do curso [JStack](https://jstack.com.br/). A ideia é construir um API com node de forma nativa, usando javascript puro, sem o uso de qualquer biblioteca ou framework.
 
 <h1 align="center">
-    <img alt="Capa Projeto" title="CapaProjeto" src="./demonstracao-sistema.gif" width="800px"/>
+    <img alt="Capa Projeto" title="CapaProjeto" src="./demonstracao-aplicacao.gif" />
 </h1>
 
 ## 🖧 Rotas da aplicação
