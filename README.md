@@ -40,7 +40,7 @@ As tecnologias/ferramentas utilizadas no projeto foram:
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas listadas abaixo:
 
-- [ ] Criar um mais campos para o usuário (idade, endereço, telefone)
+- [ ] Criar mais campos para o usuário (idade, endereço, telefone)
 - [ ] Aplicar os metodos de listar, incluir, alterar e excluir para esses campos
 
 ## :package: Como utilizar o projeto
