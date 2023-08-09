@@ -30,10 +30,11 @@ Esse projeto faz parte do curso [JStack](https://jstack.com.br/). A ideia é con
 
 ## :rocket: Tecnologias utilizadas no projeto
 
-As tecnologias utilizadas no projeto foram:
+As tecnologias/ferramentas utilizadas no projeto foram:
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/)
+- [Insomnia](https://insomnia.rest/) *Utilizado para testar os endpoints da aplicação
 
 ## 👨🏻‍💻 Lista de ajustes e melhorias
 
